@@ -1,0 +1,52 @@
+/* Estilos específicos da HomePage */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #A9A9A9;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .header {
+    text-align: center;
+    color: #333;
+    margin-top: 20px; 
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .question-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .flag-img {
+    max-width: 30%;
+    max-height: 300px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  select {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
